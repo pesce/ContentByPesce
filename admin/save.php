@@ -1,6 +1,7 @@
 <?php
 require('htmLawed/htmLawed.php');
 
+$config = array('safe'=>1);
 $content = htmLawed($_POST['mytextarea']);
 
 $file = getcwd().'/content.html';
