@@ -1,4 +1,4 @@
-## Welcome to the ContentByPesce wiki!
+## ContentByPesce!
 
 Content by Pesce uses and includes unmodified versions of:
 [TinyMCE](https://github.com/tinymce)
