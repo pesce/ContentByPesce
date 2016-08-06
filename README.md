@@ -19,3 +19,6 @@ The requirements were:
 Demo [HERE](http://contentbypesce.byethost5.com/)
 
 Admin area [HERE](http://contentbypesce.byethost5.com/admin/) user:test pw:test
+
+
+* WORD OF CAUTION, there is no built in security for the admin area yet.  Use .htpasswd at minimum! Here is a  [Tutorial](http://www.colostate.edu/~ric/htpass.html)
