@@ -4,6 +4,7 @@ Content by Pesce uses and includes unmodified versions of:
 [TinyMCE](https://github.com/tinymce)
 [Bootstrap](https://github.com/twbs/bootstrap)
 [SweetAlert](https://github.com/t4t5/sweetalert)
+[htmLawed](http://www.bioinformatics.org/phplabware/internal_utilities/htmLawed/)
 
 
 CBP is a quick way to set up a basic website using TinyMCE and basic file management. It is useful for creating a static site while allowing non technical folks to add/modify content. Specifically this was designed to have a static introduction area, and maintain a running list which would be updated frequently by clerical staff. 
